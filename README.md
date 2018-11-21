@@ -1,5 +1,5 @@
-# rust-chat
+# Rust Chat Application
 
-# Simple Rust client/server chat application.
+### Rust client/server chat application.
 
-## Run `cargo run` to run the app, run `cargo build` to build an executable file. 
+#### Run `cargo run` to run the app, run `cargo build` to build an executable file. 
